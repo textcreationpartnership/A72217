@@ -1,0 +1,574 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new and accurate map of the world drawne according to the truest descriptions, latest discoueries, and best obseruations that haue been made by English or strangers. VVith briefe and most plaine notes vpon the vvhole body of cosmographie, for the easie vnderstanding thereof: pleasant and vsefull for all such as desire to know further then of their owne home.</title>
+            <author>Grent, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72217</idno>
+            <idno type="STC">STC 12360.7</idno>
+            <idno type="STC">ESTC S124962</idno>
+            <idno type="EEBO-CITATION">99898872</idno>
+            <idno type="PROQUEST">99898872</idno>
+            <idno type="VID">150932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150932)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1988:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new and accurate map of the world drawne according to the truest descriptions, latest discoueries, and best obseruations that haue been made by English or strangers. VVith briefe and most plaine notes vpon the vvhole body of cosmographie, for the easie vnderstanding thereof: pleasant and vsefull for all such as desire to know further then of their owne home.</title>
+                  <author>Grent, William.</author>
+               </titleStmt>
+               <extent>5? sheets (versos blank) : ill. (metalcut)  </extent>
+               <publicationStmt>
+                  <publisher>Are to be sould by Tho: Ien[n]er at the white Beare in Cornehill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1625?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cartouche in lower right corner dated 1625.</note>
+                  <note>Pagination suggested by STC; the map was apparently printed on 2 sheets and the letterpress possibly on 3 sheets before cutting and mounting at all sides of the map--STC.</note>
+                  <note>Reproduction of original in the Cambridge University Library, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cartography --  Early works to 1800.</term>
+               <term>World maps --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication_cartouche">
+            <pb facs="tcp:150932:4"/>
+            <p>
+               <hi>To the Right Hon<hi rend="sup">ble</hi>:</hi> Henry Mountague, <hi>Baron of Kimbolton, Viſcount Maundevile, Lo: Preſident of his Ma<hi rend="sup">ties</hi>: moſt Ho:<hi rend="sup">ble</hi> Privy Counsell: this Mapp of the World, With Himſelfe, and his best Services.</hi> Will: Grent</p>
+         </div>
+      </front>
+      <body>
+         <div type="world_map">
+            <pb facs="tcp:150932:1"/>
+            <head>A NEW AND ACCVRATE MAP OF THE WORLD DRAWNE ACCORDING TO THE trueſt Deſcriptions, lateſt Diſcoueries, and beſt Obſeruations that haue beene made by English or Strangers. VVITH BRIEFE AND MOST PLAINE NOTES VPON THE VVHOLE BODY OF COSMOGRAPHIE. FOR THE EASIE VNDERSTANDING THEREOF: Pleaſant and vſefull for all ſuch as deſire to know further then of their owne Home.</head>
+            <p>
+               <figure>
+                  <figDesc>world map including numerous explanatory notes; surrounded by cosmographical diagrams including of the solar calendar, the northern astronomical hemisphere, the southern astronomical hemisphere, the concentric celestial spheres or orbs, the lunar eclipse, and the solar eclipse; also a diagram showing the imaginary lines by which the earth is divided and described; also a representation of a shooting star passing over a city; also representations of various mythological figures including Atlas and the personifications of Desire, Diligence, Observation, and Peace, surrounded by navigational instruments, and the personifications of Geography, holding a map and compasses, and Navigation, holding a cross-staff; also potraits of the circumnavigators Ferdinand Magellan, Francis Drake, Thomas Cavendish, and Olivier van Noort</figDesc>
+                  <p>AMERICA Was firſt discoverd y<hi rend="sup">e</hi> yeer 1492. by Christopher Columb<g ref="char:EOLhyphen"/>us, at y<hi rend="sup">e</hi> charge of Ferdinand &amp; Isabella. K: and Q: of Castill but denominated of Ameri<g ref="char:EOLhyphen"/>cus Vesputius seven yeers after.</p>
+                  <p>This South Land vndiscouered commonly knowne by the name of Terra Australis in<g ref="char:EOLhyphen"/>cognita &amp; Magellanica cannot certainly be affirmed either continent Ilands only Some few coasts thereof haue appeared to Sea men driuen ther<g ref="char:EOLhyphen"/>upon by extremity of weather whoſe names are ſet downe, the rest must remaine clouded in obſcuritie till future times and further diſcoueries, produce them to light.</p>
+                  <p>The North Hemiſpheare</p>
+                  <p>The South Hemiſpheare</p>
+                  <p>The Eclipse of y<hi rend="sup">e</hi> Moone</p>
+                  <p>The Eclipse of the Sun</p>
+                  <p>A Figure of the Spheare</p>
+                  <p>Peace is y<hi rend="sup">e</hi> Nurce of Sci<g ref="char:EOLhyphen"/>ence, and these 3 the meanes to attaine it.</p>
+                  <p>Deſire</p>
+                  <p>Diligence</p>
+                  <p>Obſervation</p>
+                  <p>Peace</p>
+                  <p>Ferdinand Magellan. sayld about the World. 1524.</p>
+                  <p>S<hi rend="sup">r</hi>. Francis Drake sayled about the World 1580.</p>
+                  <p>M<hi rend="sup">r</hi> Thomas Candishe sailed about the World An<hi rend="sup">o</hi> 1588.</p>
+                  <p>Oliver vander Nort sailed about the World. 1601.</p>
+               </figure>
+            </p>
+            <div type="introduction_to_cosmography">
+               <div type="part">
+                  <head>The deſcription and vſe of the Figure with the twelue Signes, ſhewing the Theoricke of the Sunne on the left hand of theſe two Hemiſpheares.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>HE outward circle of this Figure is di<g ref="char:EOLhyphen"/>uided into 365 dayes equall, and allow<g ref="char:EOLhyphen"/>ing vnto each moneth his proportion of dayes, as Ianuary 31. February 28. March 31. April 30. &amp;c.</p>
+                  <p>The inward circle is diuided into 360 degrees, giuing vnto each Signe 30 de<g ref="char:EOLhyphen"/>grees, the ſemidiameter of the twelue mo<g ref="char:EOLhyphen"/>neths is ſuppoſed to be diuided into 60 parts, from w<hi rend="sup">ch</hi> center is ſuppoſed another center to be 2 degrees 9 minutes of the ſaid 60 parts, according to <hi>Ticho Brache,</hi> who maketh the place or point of the Sunnes <hi>Apogeum,</hi> to be in the 6 degree of Cancer, in this age of the world. The <hi>Apogeum</hi> of the Sunne is that point in which when the Sunne commeth vnto he is in his ſloweſt mo<g ref="char:EOLhyphen"/>tion, or furtheſt diſtant from the Earth, that is to ſay, Iune 17. then the Sunne ſhall be in the ſixt degree of Cancer, the <hi>Peregeum</hi> of the Sunne ſhall be when he commeth into the ſixt degree of Capricorne, being oppoſite to the ſixt degree of Cancer. The ſecond mouable part is diuided into 29 dayes and one halfe, which doth ſhew the age of the Moone. The next Circle is di<g ref="char:EOLhyphen"/>uided into 24 houres, and each houre into 4 quarters, each quar<g ref="char:EOLhyphen"/>ter into 3 parts, each part being 5 minutes.</p>
+               </div>
+               <div type="part">
+                  <head>The vſe of this Figure may be this.</head>
+                  <p>FIrſt, the day of the moneth being giuen to find the place of the Sun in the Zodiacke, or the place of the Sun being giuen to finde the day of the moneth: Take the Index of the Sun and bring it to the day of the moneth, ſheweth the place of the Sun in the Zodiacke of the 12 Signes. Example, April 14. the place of the Sun will be found to be in the 4 degree of Taurus.</p>
+                  <p>Secondly, the day of the Change or New Moone being giuen to finde the age of the Moone, the ſigne and degree ſhe poſſeſ<g ref="char:EOLhyphen"/>ſeth in the Zodiacke, the time of her comming to the South, and tune of full Sea or high water in any Hauen, knowing the time of the Changes or full Moone after this manner:</p>
+                  <p>In ſome Almanack (or by the Epact) find the day of the change of the Moone going before, the day that ye deſire; and ſo many dayes after the change, ſo many dayes old is the Moone.</p>
+                  <p>Firſt bring the Index of Sol or the Sunne to the day of the moneth, and there ſtay it. Secondly, bring the Index of the Moone, to the age of the Moon, and it ſheweth the ſigne and de<g ref="char:EOLhyphen"/>gree that ſhe poſſeſſeth in the Zodiacke, the houre and minute vn<g ref="char:EOLhyphen"/>der the age, is the time of her comming to the South.</p>
+                  <p>Thirdly, to finde the time of high water.</p>
+                  <p>In the Table following finde the name of the Port or Hauen, and the houre and minute againſt that Hauen is the houre and minutes, that ye ſhall adde to the time of the Moones comming to South, is the time of high water in the ſaid place.</p>
+                  <p>
+                     <table>
+                        <head>A Tyde Table ſhewing the times of full Sea in the principall Hauens in England, or neere about thereunto.</head>
+                        <row>
+                           <cell role="label">Names of the Hauens.</cell>
+                           <cell role="label">H</cell>
+                           <cell role="label">M</cell>
+                           <cell role="label" cols="2">Points of the Compaſſe.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Quinborow, Southamp. Portſmou.</hi>
+                           </cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                           <cell>South.</cell>
+                           <cell>North.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Redban, Aberden.</hi>
+                           </cell>
+                           <cell>0</cell>
+                           <cell>45</cell>
+                           <cell>S. W. b. W.</cell>
+                           <cell>N. E. b. E.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Graueſend, the Downes.</hi>
+                           </cell>
+                           <cell>1</cell>
+                           <cell>30</cell>
+                           <cell>S. S. W.</cell>
+                           <cell>N. N. E.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dundee, S. Andrewes, Silli.</hi>
+                           </cell>
+                           <cell>2</cell>
+                           <cell>15</cell>
+                           <cell>S. W. b. S.</cell>
+                           <cell>N. E. b. N.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>London, Tinmouth, Hartlepoole.</hi>
+                           </cell>
+                           <cell>3</cell>
+                           <cell>0</cell>
+                           <cell>South Weſt.</cell>
+                           <cell>North Eaſt.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Barwick, Oſtend, Fount.</hi>
+                           </cell>
+                           <cell>3</cell>
+                           <cell>45</cell>
+                           <cell>S. W. b. W.</cell>
+                           <cell>N. E. b. E.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Frith, Lith, Dunbar, Narbon.</hi>
+                           </cell>
+                           <cell>4</cell>
+                           <cell>30</cell>
+                           <cell>W. S. W.</cell>
+                           <cell>E. N. E.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Faymouth, Gernſey, Lizard.</hi>
+                           </cell>
+                           <cell>5</cell>
+                           <cell>15</cell>
+                           <cell>W. b. S.</cell>
+                           <cell>E. b. N.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Foy, Lin, Humber, Way, Dart<g ref="char:EOLhyphen"/>mouth, or Plimouth, Antwerp.</hi>
+                           </cell>
+                           <cell>6</cell>
+                           <cell>0</cell>
+                           <cell>Eaſt.</cell>
+                           <cell>Weſt.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Briſtol, Lanion, Foulneſſe.</hi>
+                           </cell>
+                           <cell>6</cell>
+                           <cell>45</cell>
+                           <cell>E. b. S.</cell>
+                           <cell>W. b. N.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Milford and Bridgewater, Texel.</hi>
+                           </cell>
+                           <cell>7</cell>
+                           <cell>30</cell>
+                           <cell>E. S. E.</cell>
+                           <cell>W. N. W.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Portland, Peter-port, Hage.</hi>
+                           </cell>
+                           <cell>8</cell>
+                           <cell>15</cell>
+                           <cell>S. E. b. E.</cell>
+                           <cell>N. W. b. W.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Orkney, Poole, Orwel, Shelens.</hi>
+                           </cell>
+                           <cell>9</cell>
+                           <cell>0</cell>
+                           <cell>South Eaſt.</cell>
+                           <cell>North Weſt.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Deepe, Luxe, Lenoyes, Needles.</hi>
+                           </cell>
+                           <cell>9</cell>
+                           <cell>45</cell>
+                           <cell>S. E. b. S.</cell>
+                           <cell>N. W. b. N.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Bolyn, Douer, Harwich, Yarmou.</hi>
+                           </cell>
+                           <cell>10</cell>
+                           <cell>30</cell>
+                           <cell>S. S. E.</cell>
+                           <cell>N. N. W.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Callis, Rye, Winchilſey, Calſho.</hi>
+                           </cell>
+                           <cell>11</cell>
+                           <cell>15</cell>
+                           <cell>S. b. E.</cell>
+                           <cell>N. b. W.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <div type="subpart">
+                     <head>The vſe of this Table.</head>
+                     <p>Adde the houres and minutes right againſt each Hauen, to the Moones comming to the South, and the whole reſult will be the time of the Tide or high water. By this Table you may ſee in what point of the Compaſſe the Moone is in at the time of the Tide or full Sea.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Of blazing Starres.</head>
+                  <p>BLazing Starres or Comets, are flames drawne into the higher part of the Ayre, which come by drineſſe and long quiet<g ref="char:EOLhyphen"/>neſſe in the Ayre. They ſignifie corruption in the Ayre to fol<g ref="char:EOLhyphen"/>low. They are either ſignes of warres and death, or tokens of earth-quakes, and dearth of corne. In the yeare 1618. there hap<g ref="char:EOLhyphen"/>pened
+<pb facs="tcp:150932:2"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:150932:3"/> a fearfull blazing Starre from the 18 of Nouember to the 16 of December following. It was ſeene all ouer Europe. The Countries it paſſed ouer were, Noua Guinea, the Ile of Iaua, Su<g ref="char:EOLhyphen"/>matra, Madagaſcar, Monomotapa, Picora, Nombre de Ieſus.</p>
+               </div>
+               <div type="part">
+                  <head>The manner of the Moones Eclipſe.</head>
+                  <p>THe word Eclipſe is as much to ſay as To want light, and to be darkned, or hidden from our ſight.</p>
+                  <p>The Moones Eclipſe is figured at the foot of <hi>America,</hi> ouer againſt your left hand, which is thus: <hi>viz.</hi>
+                  </p>
+                  <pb facs="tcp:150932:4" rendition="simple:additions"/>
+                  <p>When the Sun and Moone are oppoſite one to the other dia<g ref="char:EOLhyphen"/>metrally, and the Earth in the very midſt betweene both: that is, when a right line drawne from the center of the Sun to the cen<g ref="char:EOLhyphen"/>ter of the Moone, paſſeth through the center of the Earth: For the body of the earth being thicke and not tranſparent, caſting his ſhadow to that point which is oppoſite to the place of the Sun, will not ſuffer the Moon to receiue any light from the Sun, from whom ſhe alwayes borroweth her light. And note, that euery time ſhe is at the full, ſhee is oppoſite to the Sun, and yet the Earth is not at euery ſuch full diametrally betwixt her and the Sun, for then ſhe ſhould be eclipſed at euery full, which indeed cannot be, vnleſs ſhe be either in the head or taile of the Dragon.</p>
+                  <p>Now the Moone is eclipſed in part, when the Sun, the Earth, and the Moone, be met in one ſelfe diametrall line, but the Moon is declining either on the one ſide or on the other.</p>
+                  <p>But note that eclipſes of the Moone may be vniuerſall, becauſe the Earth is far bigger then the Moone, and thereby able to ſha<g ref="char:EOLhyphen"/>dow her whole body.</p>
+               </div>
+               <div type="part">
+                  <head>The manner of the Sunnes Eclipſe.</head>
+                  <p>THe Eclipſe of the Sun is ſhewed by that Figure at the foot of <hi>Aſia,</hi> againſt your right hand, and happeneth</p>
+                  <p>When the Moone is betwixt the Sun and the Earth, which chanceth in a Coniunction or new of the Moone: and yet not in euery Coniunction, but when it falleth either in the head or taile of the Dragon: which may chance (as is ſaid before) either totally, or in part: totally, in reſpect of thoſe parts of the Earth whereon the ſhadow directly falleth. For ſith the Moone is farre leſſer then the Earth, ſhe cannot ſhadow all the Earth, and there<g ref="char:EOLhyphen"/>fore the eclipſe of the Sun cannot be vniuerſall: but yet to ſome parts of the earth it may be totally, to ſome partly, and to others nothing at all; as may appeare by the aforeſaid Figure.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Firmament and Conſtellations.</head>
+                  <p>THe two Hemiſpheares in the middle aboue, filled with fi<g ref="char:EOLhyphen"/>gures of men, beaſts, fiſhes, and the like, emboſt with ſtarres, doe repreſent the fate of the Firmament or Orbe of the fixed ſtars (thoſe that appeare euery night) which were by ancient A<g ref="char:EOLhyphen"/>ſtronomers diuided into, and diſtinguiſhed by certaine Conſtel<g ref="char:EOLhyphen"/>lations, and each of theſe is knowne by a proper name. Of theſe Conſtellations the number (according to the ancient account) is 48, that are diuided into three parts:
+<list>
+                        <item>1 Northerne Conſtellations, being 21 in number.</item>
+                        <item>2 Zodiacke Conſtellations, being 12 in number.</item>
+                        <item>3 Southerne Conſtellations, being 15 in number.</item>
+                     </list>
+                  </p>
+                  <p>The Northerne Conſtellations conſiſt of 332. ſtars.</p>
+                  <p>The Zodiacke Conſtellations, which be alſo called the twelue Signes, conſiſt of 280 ſtars.</p>
+                  <p>The Southerne Conſtellations containe 293 ſtarres.</p>
+                  <p>Some of theſe Conſtellations conſiſt of more, ſome of fewer ſtars, according to their greatneſſe or ſmalneſſe.</p>
+                  <p>Beſides theſe there are 120 ſtars that are exempt out of all the Conſtellations: ſo that the number of ſtars ſet vpon both Hemi<g ref="char:EOLhyphen"/>ſpheares are 1025; and diuers of them haue proper names.</p>
+                  <p>But here is to be vnderſtood, that all the ſtars in heauen are not numbred, nor cannnot, for that diuers of them are ſo ſmall: but theſe 1025 are the principalleſt among them, and all that haue yet euer beene accounted of.</p>
+                  <p>The two firſt parts of all, that is, the Northerne and Zodiacke Conſtellations are contained in that part right againſt your left hand, and placed ouer a piece of <hi>America.</hi> The laſt, that is, the Southerne, is comprehended in that other Hemiſpheare on your right hand, and ouer the European Sea.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Figure of the heauenly Orbes and Elements.</head>
+                  <p>THe whole world is diuided into two parts, <hi>viz.</hi> Elementall, and Etheriall or coeleſtiall parts.</p>
+                  <p>The Elementall part is fourefold: <hi>viz. Earth, Water, Ayre, Fire:</hi> as may be ſeene in that round Figure of the frame of the hea<g ref="char:EOLhyphen"/>uens and elements one within another; the inmoſt and middle<g ref="char:EOLhyphen"/>moſt circle containing Earth and Water intermixed together: The next, the three Regions of the Aire: and immediately aboue that Orbe, is the Element of Fire: all which you may eaſily diſ<g ref="char:EOLhyphen"/>cerne by their ſeuerall names in their proper places.</p>
+                  <p>The Etheriall or Celeſtiall parts doe compaſſe the Elementall parts: and containe the ten vpper Spheares: <hi>viz.</hi> 1 the <hi>Moone,</hi> 2 <hi>Mercury,</hi> 3 <hi>Venus,</hi> 4 <hi>Sol,</hi> 5 <hi>Mars,</hi> 6 <hi>Iupiter,</hi> 7 <hi>Saturne,</hi> 8 the <hi>Starry firmament,</hi> 9 the <hi>Chriſtaline heauen,</hi> hauing no ſtars at all; the 10 is the <hi>Primum mobile,</hi> or firſt Mouer, containing all the reſt within it; and mouing from the Eaſt to the Weſt carieth a<g ref="char:EOLhyphen"/>bout with it in violence all the other Spheares.</p>
+                  <p>The reſt of the Spheares haue contrary motions, euery one in his kind, though far ſlower then the other: and their motions are contrary, from the Weſt to the Eaſt, and ſo are caried about oftentimes by the firſt Mouer before they make one perfect reuo<g ref="char:EOLhyphen"/>lution in themſelues.</p>
+                  <p>The <hi>Cryſtaline</hi> or ninth Spheare his motion is almoſt vnſen<g ref="char:EOLhyphen"/>ſible, and is called <hi>The trembling Motion,</hi> and is performed ac<g ref="char:EOLhyphen"/>cording to the opinion of later Aſtronomers, in 49000 yeares.</p>
+                  <p>The eight Spheare being the <hi>Starry Firmament,</hi> performeth his motion in 7000 yeares.</p>
+                  <pb facs="tcp:150932:5"/>
+                  <p>The reſt of the Spheares are the ſeuen Planets; each Spheare containeth in it but one Starre; whereof the vppermoſt and ſlow<g ref="char:EOLhyphen"/>eſt is <hi>Saturne,</hi> which performeth his courſe in thirty yeares. <hi>Iupi<g ref="char:EOLhyphen"/>ter</hi> being next vnder that, makes his reuolution in twelue yeares. <hi>Mars</hi> beneath him, finiſheth his courſe in two yeares. <hi>Sol</hi> paſ<g ref="char:EOLhyphen"/>ſeth through the Zodiacke in 365 dayes and ſixe houres, which is one whole yeare. <hi>Venus</hi> ends her courſe in ſomewhat more then a yeare. <hi>Mercury</hi> holds equall pace with the Sunne. <hi>Luna</hi> cour<g ref="char:EOLhyphen"/>ſeth about the heauen once euery eight and twenty dayes.</p>
+               </div>
+            </div>
+            <div type="introduction_to_geography">
+               <pb facs="tcp:150932:3"/>
+               <head>Geography, and the principles thereof.</head>
+               <div type="part">
+                  <head>Certaine termes of Land and Water plainly defined and deſcribed.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He Terreſtriall Globe is defined to be a ſphea<g ref="char:EOLhyphen"/>ricall body, proportionably compoſed of Earth and Water: into which two parts it is diuided. Whereof the earth comes firſt to view; whoſe parts are either
+<list>
+                        <item>Reall,</item>
+                        <item>Imaginary:</item>
+                     </list> and the Reall parts either
+<list>
+                        <item>Continents,</item>
+                        <item>Ilands.</item>
+                     </list>
+                  </p>
+                  <p>Now a Continent is a great quantity of land, not interlaced or ſeparated by the Sea; in which many Kingdomes and Principa<g ref="char:EOLhyphen"/>lities are contained; as Europe, Aſia, Africa, America.</p>
+                  <p>An Iland (called in Latine, <hi>Inſula, quaſi in ſalo</hi>) is a part of the earth, enuironed round with waters; as Britaine, Iava, S<hi rend="sup">t</hi>. Lau<g ref="char:EOLhyphen"/>rence Ile, Barmudas.</p>
+                  <p>Theſe againe are ſubdiuided into
+<list>
+                        <item>
+                           <hi>Peninſula,</hi>
+                        </item>
+                        <item>
+                           <hi>Iſtmus,</hi>
+                        </item>
+                        <item>
+                           <hi>Promontorium.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>A <hi>Peninſula,</hi> is almoſt an Iland; that is, a tract of Land, which being almoſt encompaſſed round by water, is ioyned to the firme land by ſome little Iſtmus: as Poloponneſus, Taurica, Cymbrica, and Peruana.</p>
+                  <p>An <hi>Iſtmus,</hi> is a little narrow neck of land, which ioyneth any <hi>Peninſula</hi> to the Continent; as the Straights of Dariene in Peru, and Corinth in Greece.</p>
+                  <p>
+                     <hi>Promentorium</hi> is ſome high Mountaine, which ſhooteth it ſelfe into the Sea, the vtmoſt end of which, is called a Cape; as that great Cape of good hope, and Cape Verde in Africa; Cape Comori in Aſia; and that of S<hi rend="sup">t</hi>. Michaels Mount in Cornwall; the North Cape vp in Norway, and diuers other.</p>
+                  <p>There are likewiſe other reall parts of the earth; as Mountains, Vallies, Fields, Plaines, Woods, and the like.</p>
+                  <p>The other generall part of the Globe is the Water; which is diuided into
+<list>
+                        <item>1. <hi>Oceanus.</hi>
+                        </item>
+                        <item>2. <hi>Mare.</hi>
+                        </item>
+                        <item>3. <hi>Fretum.</hi>
+                        </item>
+                        <item>4. <hi>Sinus.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p n="1">1. <hi>Oceanus,</hi> the Ocean, is that generall collection of all waters, which enuironeth the world on euery ſide.</p>
+                  <p n="2">2. <hi>Mare,</hi> the Sea, is a part of the Ocean; to which we can<g ref="char:EOLhyphen"/>not come, but through ſome Straite, as <hi>Mare Mediterraneum, Mare Balticum,</hi> and the like.</p>
+                  <p>Theſe two take their names
+<list>
+                        <item>Either from the adiacent places, as the Brittiſh Ocean, the Germane ſea, the Atlantick ſea.</item>
+                        <item>Or from the firſt diſcouerer, as <hi>Mare Magella<g ref="char:EOLhyphen"/>nicum, Dauis</hi> and <hi>Ferbiſhers</hi> ſtraits, &amp;c.</item>
+                        <item>Or from ſome remarkable accident, as <hi>Mare Rubrum,</hi> from the red colour of the Sands. <hi>Mare Aegeum, Pontus Euxinus,</hi> and the like.</item>
+                     </list>
+                  </p>
+                  <p n="3">3. <hi>Fretum,</hi> a Straite, is a part of the Ocean reſtrained within narrow bounds, and opening a way to the Sea; as the Straits of Gibralter, Helleſpont, Anian.</p>
+                  <p n="4">4. <hi>Sinus,</hi> a Creeke, is a crooked ſhoare, thrufling out as it were two armes to imbrace the louely preſence of the Sea; at <hi>Si<g ref="char:EOLhyphen"/>nus Adriaticus, Sinus Perſicus,</hi> and <hi>Corinthiacus.</hi>
+                  </p>
+                  <p>To this alſo belong Riuers, Brookes, and Fountaines, which are engendred of congealed ayre in the earths concauities, and ſeconded by the Seas waters creeping through hidden crannies thereof. Thus much of the reall parts of the Globe in generall.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Circles of this Map; and their vſes.</head>
+                  <p>THe imaginary parts of the earth are ſuch, which not being at all in the Earth, muſt yet bee ſuppoſed to bee ſo, for the better teaching and learning this Science; and are certaine Circles going about the Earth, anſwerable to them in Heauen in name.</p>
+                  <p>The <hi>Meridian</hi> (which comes firſt to be conſidered) is a great Circle compaſſing round the earth from Pole to Pole; and is that which you ſee in the circumference of both Planiſpheares of this Map; and wherein are written the names of the Zones and Climates. This chiefe, firſt, fixed Meridian paſſeth through the Ilands called Azores, according to the ancient Coſmographers; and there are two reaſons why they did there begin to reckon the longitude of the earth:</p>
+                  <p>Firſt, for that at that time there was no land knowne further to the Weſtward then that place.</p>
+                  <p>Secondly, vnder that Meridian the needle in the Mariners Compaſſe had no variation, but did point directly North and South.</p>
+                  <p>There are alſo many Meridians according to the diuerſe place in which a man liues, the number of them equall to ſo many points as may bee imagined in the Globe; but the vſuall ſetting them downe to view, is by ten degrees aſunder; and are thoſe blacke lines which you ſee in both Planiſpheares, running down along from the North to the South Pole.</p>
+                  <p>The vſe of the Meridian, is to ſhew the longitude of any place. Now the longitude of a Region, City, or Cape, is the di<g ref="char:EOLhyphen"/>ſtance of it Eaſt from the firſt great Meridian; and this longitude is meaſured and numbred in the Aequinoctiall line by Meridians from the generall and fixed Meridian, into the Eaſt, and contai<g ref="char:EOLhyphen"/>neth the whole compaſſe of the earth, viz. 360. degrees.</p>
+                  <p>To proue this by example, caſt your eye on London, and you ſhall ſee it ſomething to the Eaſt of the ſecond blacke Meridian; paſſe downe with that blacke line to the Aequinoctiall, and look as much Eaſt there, as London is from that Meridian aboue, then count the degrees of the Aequinoctiall from the firſt great Meri<g ref="char:EOLhyphen"/>dian to that place, and that diſtance is the longitude of London; which you may perceiue to be 20. degrees and better. And the like manner of working is to be made for all other places.</p>
+                  <p>That <hi>line</hi> full of degrees, croſſing both Planiſpheares ſtraight along in the middle, and diuiding the world into two halfs <hi>(viz.)</hi> North and South halfes, is called the <hi>Aequinoctiall line,</hi> or the Aequator; either becauſe it is of equall diſtance from both Poles of the world, or elſe becauſe the Sunne comming in this Circle makes the dayes and nights throughout the world of like length; which happens vpon the 10. or 11. of March, and the 13. or 14. of September. It paſſes through Abaſſia or <hi>Preſtor Iohns</hi> King<g ref="char:EOLhyphen"/>dome, and Mani Congo in Africa, through the great Iland Su<g ref="char:EOLhyphen"/>matra, and the Maldiue Iles of Aſia; and in America, through Guiana.</p>
+                  <p>The vſe of it is to ſhew the Latitude of any Country, Citie, Promontory, or the like: Now the Latitude is the diſtance of a place toward the South or North, from the Aequinoctiall line or middle of the world, and is reckoned and meaſured vpon the Meridian toward either Pole: thoſe therefore haue Northerne latitude that inhabit betweene the Aequinoctiall and the North Pole, as they haue Southerne latitude that are betweene the ſame Aequator and the South Pole.</p>
+                  <p>Thoſe <hi>blacke lines</hi> thwarting the blacke Meridians from Eaſt to Weſt, are parallels, &amp; are alſo called Aequidiſtants, being diſtant one from another 10. degrees toward both Poles; and are here ſet downe for the eaſier counting the latitude of any place from the Aequinoctiall: as for the <hi>latitude</hi> of London; count ſo many decimall parallels till you come to the parallel which is neereſt London, (you ſhall finde them to be fiue) then follow that line to the Meridian, and ſee the figures ſet thereat; (they are 50.) moreouer adde to that number of 50. ſo much as London is ſitu<g ref="char:EOLhyphen"/>ate aboue that parallel, the ſpace is one degree and a halfe; thus ſhall you finde the latitude of London, (that is, the diſtance thereof from the Aequator toward the North Pole) to be 51. de<g ref="char:EOLhyphen"/>grees and a halfe: and in like manner muſt the Latitude of all other places be ſought. Thus much of Longitude and Latitude, by which two the whole Earth is reckoned.</p>
+                  <p>The Meridian and Aequinoctiall, as alſo the Zodiacke, are fil<g ref="char:EOLhyphen"/>led throughout with degrees, the number 360. and euery degree conſiſts of 60. Minutes, and containes, according to our ordinary account, 20. leagues, or threeſcore miles.</p>
+                  <p>The <hi>great circle</hi> that is drawne bending bias in the one plani<g ref="char:EOLhyphen"/>ſpheare vp to the Tropicke of Cancer, in the other downe to the Tropicke of Capricorne, is the <hi>Zodiacke;</hi> it is repleniſhed with degrees, and bears on it the characters of the 12. ſignes.</p>
+                  <p>The vſes of it are to ſhew ouer what Countries and people the body and beames of the Sunne come perpendicular at ſome times or other in the yeare: and it ſhewes to all (where the dayes increaſe and decreaſe) the longeſt and ſhorteſt daies of the yeare: for the Sunne (which cauſeth the ſame) being alwaies in this circle, and therein mouing, about one degree a day, all the while he is comming vp from the Tropicke of Capricorne to that of Cancer, the dayes increaſe in the Northerne Climats; but con<g ref="char:EOLhyphen"/>trariwiſe in his courſe backe from Cancer to Capricorne, they ſhorten to vs, and lengthen to thoſe in the Southerne Climates: and this Circle ſhewes the foure quarters of the yeare, Spring, Summer, Autumne, Winter.</p>
+                  <p>The <hi>Tropicke of Cancer,</hi> (ſo called of the coeleſtiall ſigne Can<g ref="char:EOLhyphen"/>cer) is a circle, whoſe diſtance from the Aequinoctiall toward the North, is 23. degrees and a halfe. When the Sunne is come ſo farre Northward as to touch this circle, then is our longeſt day in the yeare.</p>
+                  <p>It paſſes through the Southermoſt parts of Barbary and Ae<g ref="char:EOLhyphen"/>gypt, Arabia, India, China, <hi>Noua Hiſpania,</hi> and the Iland Cuba.</p>
+                  <p>The <hi>Tropicke of Capricorne,</hi> (likewiſe ſo named of the ſigne Ca<g ref="char:EOLhyphen"/>pricorne in the ſtarry heauen) is a circle of like diſtance as the other Tropicke from the Aequinoctiall Southward, that is, 23. degrees and a halfe. When the Sunne is gone downe to this circle Southward, it is our ſhorteſt day in the whole yeare.</p>
+                  <p>This Tropicke paſſes through Monomotapa, Saint <hi>Laurence</hi> Iland, Peru, and the South coaſts of Braſile.</p>
+                  <p>The <hi>Articke,</hi> or North polar circle, is diſtant from the North Pole 23. degrees and a halfe; ſo much as the Tropicke of Cancer is from the Aequinoctiall: but the diſtance betweene that Tro<g ref="char:EOLhyphen"/>picke and it, is 43. degrees.</p>
+                  <pb facs="tcp:150932:5"/>
+                  <p>You may ſee it paſſe through Iſland, Norway, Boddia, Moſco<g ref="char:EOLhyphen"/>uie, Tartary, croſſe <hi>Davis</hi> Straits, and Groenland.</p>
+                  <p>The <hi>Antarticke</hi> or South polar circle, is diſtant from the South pole, 23. degrees and a halfe; ſo far as the Tropicke of Capri<g ref="char:EOLhyphen"/>corne is from the Aequinoctiall.</p>
+                  <p>This circle paſſes through Magellanica, or <hi>Terra Auſtralis In<g ref="char:EOLhyphen"/>cognita</hi> onely.</p>
+                  <p>Now theſe foure leſſer circles, <hi>(viz.)</hi> the two Tropickes, and Polar circles, doe fitly part the earth into fiue Zones.</p>
+               </div>
+               <div type="part">
+                  <head>The Zones.</head>
+                  <p>A <hi>Zone</hi> is a ſpace of earth, contained betweene two of the ſmaller circles, or within the compaſſe of either polar circle: the name ſignifies as much as a girdle, by reaſon that each Zone compaſſeth about the earth in manner of a girdle. Of theſe there be two kinds: one temperate, the other vntemperate.</p>
+                  <p>There bee two temperate Zones, the one North, the other South.</p>
+                  <p>The <hi>North temperate Zone</hi> is that ſpace of earth contained be<g ref="char:EOLhyphen"/>tweene the Tropicke of Cancer, and the North polar circle.</p>
+                  <p>The <hi>South temperate Zone</hi> is that ſpace of earth ſtretched along betweene the Tropicke of Capricorne, and the South po<g ref="char:EOLhyphen"/>lar circle.</p>
+                  <p>They are called temperate Zones for that the ayre thereof hath a far better and more moderate temperature, and meeter for man to inhabit, then the vntemperate Zones. The breadth of them is 43, degrees apiece, which degrees make either temperate Zone to be 2580. Engliſh miles broad apiece.</p>
+                  <p>The <hi>vntemperate Zones</hi> are twofold: one exceeding in the extre<g ref="char:EOLhyphen"/>mity of heat, the other as much in cold: they haue beene thought in former times altogether vnhabitable, but later experience hath found them more fit for habitation.</p>
+                  <p>The <hi>Torrid or burnt Zone</hi> (which is the hot vntemperate Zone) is that ſpace of heauen which you ſee contained betweene the Tropicke of Cancer, and that of Capricorne. It hath the name of <hi>Torrid,</hi> becauſe the Sunne continually paſſes thereouer, and ca<g ref="char:EOLhyphen"/>ſting downe direct rayes, affects it with a maruellous heat, there<g ref="char:EOLhyphen"/>by making it not ſo conuenient for the inhabitants, as the tempe<g ref="char:EOLhyphen"/>rate Zones are. The breadth of this Zone is comprehended be<g ref="char:EOLhyphen"/>tweene the two Tropickes, and <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>aines 47. degrees, that is of Engliſh miles 2820.</p>
+                  <p>The <hi>frozen Zones</hi> are ſpace of earth incloſed within either of the Polar circles: of theſe th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e are two, one North, the other South.</p>
+                  <p>The <hi>North frozen Zone</hi> is that ſpace of earth contained within the compaſſe of the North polar circle. The breadth thereof is reckoned 23. degrees and a halfe, <hi>(viz.)</hi> from the Pole it ſelfe to the polar circle: which of Engliſh miles is 1410.</p>
+                  <p>The <hi>South frozen Zone,</hi> is that ſpace of earth compaſſed all about with the South polar circle: It hath the like breadth from the South pole, as the other frozen Zone hath from the North pole; and likewiſe the number of miles is the ſame.</p>
+                  <p>They are called <hi>Frozen Zones,</hi> becauſe they (for the moſt part) exceed in cold: and that is cauſed in regard that the Sunne, for a good part of the yeare, is vnder the Horizon, and ſees them not: and when he is come vp into their ſight, his appearance (which is for a pretty long ſeaſon together) rather comforts them, then any virtuall heart proceeding from him; for there the Ayre is ſtuft with thicke foggy vapours, and his beames at higheſt fall but very oblikely on them: ſo that what through his want and vnability to diſpell the cold, and the colds force to reſiſt and beat backe the Sunnes heat, theſe Zones remaine almoſt vnhabitable, and euen (as the word is) frozen.</p>
+                  <p>The names of all theſe, ſet in the right place of each Zone, you ſhall ſee in that Meridian going about America and Magellanica.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Climats.</head>
+                  <p>IN that <hi>great Meridian</hi> going about Europe, Aſia, and Africa, are deſcribed the <hi>Climates:</hi> Now a <hi>Climat</hi> is a ſpace of the Earth included within the ſpace of two Parallels. The vſe of them is to ſhew the difference of length and ſhortneſſe of dayes ouer all the world, as you may ſee in the midſt of euery Climat ſet the number of the houres of the longeſt day in the yeare, vn<g ref="char:EOLhyphen"/>der that Climat: the longeſt day in one Climat differing halfe an houre from the longeſt in another. So that there are foure and twenty Climes, conſiſting of forty eight Parallels, ere the day come to be 24. houres in length, which is twelue houres longer then the ordinary Aequinoctiall day is. Now this is to be vnder<g ref="char:EOLhyphen"/>ſtood; Vnder the Aequinoctiall line, and 13. degrees, that is 3. Parallels, on either ſide thereof, the dayes exceed not the length of twelue houres, but after in euery Clime increaſe the length of halfe an houre, ſo that there are numbred (as is ſaid before) 48. Parallels, which make 24. Climats, before the dayes become 24. houres long: the which length they being growne to, their in<g ref="char:EOLhyphen"/>creaſe is then by whole weekes and moneths, till in the foure and twentieth Clime, about the Pole, the day is full halfe a yeare long. And as it is thus betweene the Aequator and North Pole, ſo is it betweene the ſaid Aequator and the South Pole: wherefore there are two ſorts of Climats, that is, 24. Northerne, and as many Southerne. The Climes Northward are thus named: the firſt is <hi>Dia Meroes,</hi> becauſe the middle parallell thereof paſſes through the middeſt of the Inland Iland Meroe, in the Conti<g ref="char:EOLhyphen"/>nent of Africa; the ſecond is <hi>Dia Sienes,</hi> the third <hi>Dia Alexan<g ref="char:EOLhyphen"/>drias,</hi> the fourth <hi>Dia Rhodos,</hi> the fift <hi>Dia Romes,</hi> the ſixt <hi>Dia Ponton,</hi> the ſeuenth <hi>Dia Boriſthenes,</hi> the eight <hi>Dia Ripheos,</hi> the ninth <hi>Per Daniam.</hi> The South Climes haue the ſame names, ſaue onely that the word <hi>Antuis</hi> thereto added; as <hi>Anti-Dia Me<g ref="char:EOLhyphen"/>roes;</hi> the next, <hi>Anti-Dia Sienes,</hi> and ſo along vnto the ninth Southward: further then the ninth Clime on either ſide the Ae<g ref="char:EOLhyphen"/>quinoctiall they are not named; but yet the Climes runne on both wayes to the number of 24. as is ſeene in the Meridian. That there be but nine named, the reaſon is, becauſe when theſe names were giuen, no more then nine Climats were knowne to thoſe of ancient times; but ſince, though the number of them be increaſt to 24. the reſt are not ſo knowne by proper names, but remaine innominate.</p>
+               </div>
+               <div type="part">
+                  <head>The Diuiſion of the Earth, and of the foure parts thereof.</head>
+                  <p>THe World in latter times hath been diuided into the known and vnknowne: This laſt, ſince obſcurity hides it, ſilence ſhall ouerſlip it. The knowne, branches it ſelfe into a fourefold diuiſion, <hi>viz.</hi>
+                     <list>
+                        <item>1. Europe,</item>
+                        <item>2. Aſia,</item>
+                        <item>3. Africa,</item>
+                        <item>4. America.</item>
+                     </list>
+                  </p>
+                  <div type="subpart">
+                     <head>Europe.</head>
+                     <p>TO begin with that quarter wherein we liue; Europe (as alſo the other three) conſiſts of Continent and Ilands. The Continent hereof is ſhared by the inhabitants of theſe countries:
+<list>
+                           <item>1 Spaine,</item>
+                           <item>2 France,</item>
+                           <item>3 Italy,</item>
+                           <item>4 Belgia, or Netherlands,</item>
+                           <item>5 Germany,</item>
+                           <item>6 Denmarke,</item>
+                           <item>7 Norway,</item>
+                           <item>8 Sweeden,</item>
+                           <item>9 Muſcouia,</item>
+                           <item>10 Poland,</item>
+                           <item>11 Hungary,</item>
+                           <item>12 Dacia,</item>
+                           <item>13 Sclauonia,</item>
+                           <item>14 Greece.</item>
+                        </list>
+                     </p>
+                     <p>The European <hi>Ilands</hi> are theſe: 1. The Britiſh Iles, <hi>viz.</hi> Great Britaine, (whoſe poſſeſſors are Engliſh, Scots, and Welchmen) Ireland, Orchades, Hebrides, Sorlings; and other on the Eaſt, South, and Weſterne coaſts, 2. The Mediterranean Iles, which are, Maiorca, Minorca, Corſica, Sardinia, Sicilia, Malta, Candy or Creete, Cephalonia, Zant; The Grecian Iles, and ſome other of leſſe note in the North Seas, Iſland and Friſland.</p>
+                     <p>
+                        <hi>Europe</hi> is extended in length about 3800. miles, in breadth it exceeds not 1200. On the North the frozen ſea beats the bounds of it, toward the Weſt the Occidentall Ocean waſheth it, South<g ref="char:EOLhyphen"/>ward it is girt with the Mediterranean Sea; but the Archipelago, the Euxine Sea, Meotis Palus, and the Riuer Tanais, (now cal<g ref="char:EOLhyphen"/>led Don) with a line drawne from thence vpright Northward, are the Eaſterne limits; the chiefe Riuers hereof are, Danubius, the Rheine, and Viſtula.</p>
+                  </div>
+                  <div type="subpart">
+                     <head>Aſia.</head>
+                     <p>BEfore any thing be ſaid of the Prouinces of Aſia, a few of her prerogatiues ſhall be related which ennoble her. As 1. mans creation: 2. The birth of our Sauiour; his diuine miracles; and the worke of our Redemption and Saluation: 3. The actions memorized by the holy Penmen of the Old and New Teſtament: alſo here were erected the firſt Monarchies of the Babylonians, Aſſyrians, Medes and Perſians.</p>
+                     <p>The Continent of Aſia containes theſe Regions,
+<list>
+                           <item>1 Natolia,</item>
+                           <item>2 Syria,</item>
+                           <item>3 Paleſtina,</item>
+                           <item>4 Armenia,</item>
+                           <item>5 Arabia,</item>
+                           <item>6 Media,</item>
+                           <item>7 Aſſyria,</item>
+                           <item>8 Meſopotamia,</item>
+                           <item>9 Perſia,</item>
+                           <item>10 Chaldaea,</item>
+                           <item>11 Parthia,</item>
+                           <item>12 Hircania,</item>
+                           <item>13 Tartaria,</item>
+                           <item>14 China,</item>
+                           <item>15 India.</item>
+                        </list>
+                     </p>
+                     <p>The Ilands of Aſia, are Rhodes and Cyprus, in the Mediter<g ref="char:EOLhyphen"/>ranean Sea: in the Orientall Ocean, Iapan, the Moluccae, the Philippine, Ladrones, Borneo, Gilolo, Iaua, Sumatra, Zeilan; and an infinite number of leſſe account.</p>
+                     <p>The length thereof reaches 5200. the breadth 4560. miles, or thereabout: It is bounded Northward with the frozen Sea, and ſtraits of Anian: all the Eaſt along it reſiſts the aſſault of the Ori<g ref="char:EOLhyphen"/>entall Ocean; toward the South the Indian Ocean and Arabian Sea wreak their fury thereon; on the Weſt lies the Red Sea, and that Aegyptian Iſtmus where it is parted from Africa, but where it diſioynes it ſelfe from Europe, the Weſterne limits are the Ae<g ref="char:EOLhyphen"/>gean and Euxine Seas, Palus Meotis, the Riuer Tanais, and a right line drawne to the North. The chiefe Riuers are Euphrates, Indus, and Ganges.</p>
+                  </div>
+                  <div type="subpart">
+                     <head>Africa.</head>
+                     <p>AFrica in forme reſembles a Pyramis, and is built of theſe Countries on the Continent: 1 Barbary, 2 Numidia, 3 Ly<g ref="char:EOLhyphen"/>bia, 4 the land of Negros, or Guinee, with the adiacent Prouin<g ref="char:EOLhyphen"/>ces, 5 Aegypt, 6 Aethiopia or Abaſſia, <hi>Preſter Iohns</hi> kingdome, 7 Congo, 8 Monomotapa.</p>
+                     <p>The Ilands are Zocotara, in the Sea of Arabia; and that of S. <hi>Laurence,</hi> or Madagaſcar, in the Indian Sea: but in the Atlan<g ref="char:EOLhyphen"/>ticke Ocean, S<hi rend="sup">t</hi>. <hi>Thoma:</hi> the Iles of Capo Verde, Gorgones, or Heſperides, the Canaries, the Azores.</p>
+                     <p>Africa runs on in length 4150. miles, and is reckoned 2000. miles broad, or thereabout. The Eaſterne limits thereof are the Red Sea, and Iſtmus of Aegypt, where it is ſeuered from Aſia: on the South continually rages the Southerne Ocean: Weſtward all the coaſt is inuironed with the violence of the Weſterne or Atlanticke waues: on the North beates the Mediterranean Sea. The Riuers of moſt note, are Nilus and Niger.</p>
+                  </div>
+                  <div type="subpart">
+                     <head>America.</head>
+                     <p>AMerica, or the new World, acknowledgeth a twofold par<g ref="char:EOLhyphen"/>tition of
+<list>
+                           <item>Mexicana,</item>
+                           <item>Peruana.</item>
+                        </list>
+                     </p>
+                     <p>America is counted in length from the North Pole to the Straits of Magellan Southward.</p>
+                     <p>Mexicana is that which containes the Northerne Tract, com<g ref="char:EOLhyphen"/>prehending the Nations of 1. Mexico, 2. Quiuira, (in which is included Noua Albion;) 3. Nico, 4. Florida, 5. Virginia, 6. New England, 7. Noua Francia, 8. Terra de Labrador, or Corterealis, 9. Norumbega, 10. Eſtotilland, 11. on the other ſide of <hi>Davis</hi> ſtraits Groenland, 12. California.</p>
+                     <p>This part is in compaſſe 13000. miles, and lookes Eaſtward vpon Mar del Nort, or the Virginian Sea: Weſt vpon Mar del Zur, and the ſtraits of Anian: the Northerne coaſts extend to the Pole: Southward it is ioyned to Peruana by the Iſtmus, and that but 17. miles broad. The chiefeſt Riuers hereof is Rio, St. <hi>Laurence,</hi> or the riuer of Canada.</p>
+                     <p>Peruana containeth the Southerne part of America, and com<g ref="char:EOLhyphen"/>prehends 1. Caſtilia del oro, 2. Guiana, 3. Peru, 4. Braſile, 5. Chili, 6. Chica, 7. Patagones.</p>
+                     <p>This part is compaſſe 17000. miles; being bounded on the North by that forenamed Iſtmus, with which it is ioyned to Mexicana; lying Eaſt againſt the Aethiopian Ocean: Weſtward the Pacificke Sea, or Mar del Zur, preſſes vpon it: beneath Southward the ſtraits of Magellan limit it. Herein are theſe Ri<g ref="char:EOLhyphen"/>uers of note, Orenoque, Marganon, or the Riuer of Amazons, and the Riuer of Plate.</p>
+                     <p>The Ilands of America are, <hi>Salomons</hi> Iles, which bee many in number; and Tubarones, or the vnfortunate Iles, all ſituate in the Pacificke Sea: There lye in Mar del Nort, <hi>Terra noua,</hi> or New-found Land; Bacaleos, Trinidad, Iamaica, Cuba; Hiſpa<g ref="char:EOLhyphen"/>niola that was firſt diſcouered by <hi>Columbus;</hi> the Lucaie 40. in number: the Summer Ilands, or Bermudas; <hi>Smiths</hi> Iles, and di<g ref="char:EOLhyphen"/>uers other.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:150932:3"/>
+            <p>Are to be ſould by Tho: Ien<g ref="char:cmbAbbrStroke">̄</g>er at the white Beare in Cornehill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
